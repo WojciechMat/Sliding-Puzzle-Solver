@@ -94,7 +94,7 @@ public class Board {
     public boolean equals(Object y)
     {
         if(y == null) return false;
-        return this.toString().equals(y.toString());
+        return this == y;
     }
 
     //all boards reachable in one move from this board
