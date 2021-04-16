@@ -2,7 +2,7 @@
 Program using _A* algorithm_ to create a sliding puzzle solution.   
 Written for Princeton University's _'Algorithms part I'_ course assingment. 
 scoring **100%** in _correctness_ as well as in _memory_ and _timing_.  
-Input:  
+Input (in file):  
 3  
 0 1 3  
 4 2 5  
