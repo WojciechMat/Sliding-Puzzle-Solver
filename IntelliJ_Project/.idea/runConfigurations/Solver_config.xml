@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Solver_config" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Solver" />
+    <module name="Slider_Puzzle" />
+    <option name="PROGRAM_PARAMETERS" value="*put input file directory here*" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
