@@ -34,5 +34,4 @@ Minimum number of moves = 4
  4   5   6  
  7   8   0
   
-  This program takes advantege of [algs4.jar library](https://algs4.cs.princeton.edu/code/).  
-  It is published under [GNU General Public License, version 3 (GPLv3)](http://www.gnu.org/licenses/gpl-3.0.html) licence.
+  This program takes advantege of [algs4.jar library](https://algs4.cs.princeton.edu/code/), which is published under [GNU General Public License, version 3 (GPLv3)](http://www.gnu.org/licenses/gpl-3.0.html) licence.
